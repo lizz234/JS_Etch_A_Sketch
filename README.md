@@ -4,7 +4,7 @@ A fun and interactive Etch-a-Sketch drawing board built with HTML, CSS, and Java
 
 ## Demo
 
-Check out the live version of the Etch-a-Sketch [here]([#](https://lizz234.github.io/JS_Etch_A_Sketch/)).
+Check out the live version of the Etch-a-Sketch [here](https://lizz234.github.io/JS_Etch_A_Sketch/).
 
 ## Features
 
